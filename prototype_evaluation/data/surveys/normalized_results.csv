@@ -1,0 +1,28 @@
+,A_easy,A_enjoyable,A_status,A_action,B_easy,B_enjoyable,B_status,B_action,C_easy,C_enjoyable,C_status,C_action,most_preferred,least_preferred,MP_why,LP_why
+1,4.0,4.0,4.0,4.0,4.0,3.0,2.0,3.0,5.0,5.0,4.0,4.0,Prototype C - Gamified,Prototype B - SMS-Based,"I think having immediate feedback helps to reduce frustration with civics matters, and being able to visually track the status is a nice to have",the extra step of needing to send a message for updates seems like additional friction 
+2,4.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,2.0,2.0,Prototype B - SMS-Based,Prototype C - Gamified,,
+3,5.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,4.0,4.0,4.0,5.0,Prototype B - SMS-Based,Prototype C - Gamified,,
+6,5.0,4.0,5.0,5.0,3.0,2.0,4.0,4.0,5.0,5.0,4.0,5.0,Prototype A - Traditional,Prototype B - SMS-Based,"low cognitive, easy to understand, less action",
+7,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,2.0,3.0,3.0,4.0,Prototype B - SMS-Based,Prototype C - Gamified,,
+8,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0,3.0,Prototype A - Traditional,Prototype C - Gamified,,
+10,4.0,4.0,5.0,5.0,4.0,4.0,4.0,3.0,4.0,5.0,5.0,3.0,Prototype A - Traditional,Prototype B - SMS-Based,,I'm always a little suspicious about text reporting because I feel like the person at the other end isn't doing anything to address my text. Maybe it's even going to a dead number
+11,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Prototype C - Gamified,Prototype A - Traditional,gamified - will be used the most,traditional is boring
+12,4.0,5.0,4.0,4.0,4.0,3.0,4.0,2.0,4.0,4.0,5.0,4.0,Prototype A - Traditional,Prototype B - SMS-Based,,
+13,4.0,3.0,4.0,2.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,Prototype C - Gamified,Prototype A - Traditional,I actually really like B & C. B because we all have a phone and it's straightforward. C because I think it could ignite more enthusiasm for supporting communities with these types of civic issues,cognitive overload
+14,5.0,5.0,5.0,2.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,2.0,Prototype B - SMS-Based,Prototype C - Gamified,very easy to use,I don't see the benefit of the gamification. plus no option to share the issue with my friends so that I could get more points
+15,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Prototype C - Gamified,Prototype B - SMS-Based,,
+16,4.0,4.0,4.0,3.0,4.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,Prototype B - SMS-Based,Prototype A - Traditional,,
+17,5.0,4.0,4.0,3.0,3.0,2.0,4.0,3.0,5.0,5.0,4.0,4.0,Prototype A - Traditional,Prototype C - Gamified,A good mix of simple and easy to use but still visually appealing. ,Gamification feels unnecessary and overcomplicated for this type of app. 
+18,4.0,3.0,3.0,2.0,2.0,2.0,2.0,2.0,3.0,4.0,3.0,3.0,Prototype A - Traditional,Prototype B - SMS-Based,It's simple and focused on being exactly what it needs to be,"I like that I wouldn't have to download an app or create an account, but this example is full of inconsistencies, and doesn't seem like it's designed with SMS limitations in mind. "
+19,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Prototype A - Traditional,Prototype C - Gamified,I prefer Prototype A (Traditional App) because it gives the best combination of low effort to report and clear status updates. It feels like a tool I'd already expect from a city service.,I chose Prototype C (Gamified) as least-preferred because gamification can trivialize serious civic issues and may make users feel their reports are about points rather than outcomes.
+20,4.0,3.0,4.0,4.0,2.0,2.0,4.0,1.0,1.0,2.0,1.0,1.0,Prototype A - Traditional,Prototype C - Gamified,"It has the most clarity and consistency with what I expect, and the interface feels like it is attempting to streamline my workflow.",The gamified interface felt like its features got in the way of completing the task and generally felt poor for someone who may be an expert.
+21,5.0,5.0,5.0,5.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,3.0,Prototype A - Traditional,Prototype B - SMS-Based,"Although the gamified interface seems fun, the more traditional interface feels more legitimate and official",SMS messaging can feel clunky and is harder to decipher with the lack of UI
+22,5.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Prototype B - SMS-Based,Prototype A - Traditional,"first, love ALL of the solutions. I would take any of them. I chose the SMS based one because I think it would be the easiest for individuals in the community to utilize although my personal favorite is the gamified version. Maybe elemnts of gamification can be incorporated into the SMS-based version?","traditional isn't bad, it's just not as easy as the texting prototype or as fun as the gamified. I think if the first traditional app was paired with other city services then it would make more sense"
+count,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,,,,
+mean,4.368421052631579,4.052631578947368,4.157894736842105,3.9473684210526314,3.9473684210526314,3.6842105263157894,4.0,3.789473684210526,3.8947368421052633,4.157894736842105,3.789473684210526,3.6842105263157894,,,,
+std,0.4955946277833521,0.7050361858740394,0.6021404316396672,1.0787690624311024,0.9703197760719181,1.1572300058975777,0.9428090415820634,1.228320776436091,1.1002392084403616,0.8342100651206134,1.0316624861746777,1.1572300058975777,,,,
+min,4.0,3.0,3.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,,,,
+25%,4.0,4.0,4.0,3.5,3.5,3.0,4.0,3.0,3.5,4.0,3.5,3.0,,,,
+50%,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,,,
+75%,5.0,4.5,4.5,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.5,,,,
+max,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,,
