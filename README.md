@@ -1,5 +1,5 @@
 # Collection and Analysis of Municipal Reporting App Data
-by Hyejin Cho, Svitlana Glibova, Patrick Martens, Andrew Naydenov
+by Hyejin Cho, Svitlana Glibova, Patrick Martens, Andrew Naidenov
 
 ### Requirements
 * Highly recommended to create a Python virtual environment as defined in `pyproject.toml`
