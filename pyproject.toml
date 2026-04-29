@@ -2,4 +2,22 @@
 name = "finditfixit"
 version = "0.1.0"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "bertopic>=0.17.4",
+    "google-play-scraper>=1.2.7",
+    "ipykernel>=7.2.0",
+    "jupyter-core>=5.9.1",
+    "keybert>=0.9.0",
+    "matplotlib>=3.10.9",
+    "nltk>=3.9.4",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.2",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.4.1",
+    "spacy>=3.8.13",
+    "transformers>=5.7.0",
+    "wordcloud>=1.9.6",
+]
